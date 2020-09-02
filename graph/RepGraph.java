@@ -32,9 +32,9 @@ public class RepGraph{
     }
 }
 class Edge{
-    private int source;
-    private int neighbour;
-    private int weight;
+     int source;
+     int neighbour;
+     int weight;
 
     Edge(int s, int n, int w){
         source = s;
